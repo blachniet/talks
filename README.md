@@ -1,1 +1,1 @@
-http://blachniet.github.io/talks
+http://blachniet.github.io/talks/lightning/serilog
